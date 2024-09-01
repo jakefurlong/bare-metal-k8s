@@ -73,4 +73,5 @@ Last step, I need a static network. I'll set this up after I install Ubuntu. Thi
 
 Next up, do the thing!
 
-Install Ubuntu Server 24.04 and configure a static network.
+**Install Ubuntu Server 24.04 and configure a static network.**
+
